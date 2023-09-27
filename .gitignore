@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 
 .venv
-.venv/lib/python3.10/site-packages/_distutils_hack/__pycache__/override.cpython-310.pyc
+htmlcov
