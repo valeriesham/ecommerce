@@ -159,4 +159,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-venv
+.venv
+.venv/lib/python3.10/site-packages/_distutils_hack/__pycache__/override.cpython-310.pyc
